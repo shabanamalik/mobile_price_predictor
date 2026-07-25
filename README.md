@@ -10,7 +10,7 @@ Predicts a mobile phone's price category (Low / Medium / High / Very High) based
 - **Dataset:** Mobile Price Classification (Kaggle), 2000 records, 20 features
 
 ## Live App
-[Yahan apna streamlit link aayega deploy hone ke baad]
+(https://mobilepricepredictor-x5fcdezttv8mrzvhwhk2vg.streamlit.app/)
 
 ## Tech Stack
 Python, scikit-learn, XGBoost, Streamlit
